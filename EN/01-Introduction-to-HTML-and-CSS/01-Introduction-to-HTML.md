@@ -1,7 +1,7 @@
 [slide]
 # Problem: Random HTML Problem
 [code-task title="Random HTML Problem" taskId="random-html-problem" executionType="tests-execution" executionStrategy="html-and-css-zip-file" requiresInput="false"]
-[code-upload allowedMemory="30" /]
+[code-upload allowedMemory="30" ] [/code-upload]
 [task-description]
 ## Description
 - Change the document title to Simple HTML Page
