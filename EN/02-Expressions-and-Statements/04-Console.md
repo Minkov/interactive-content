@@ -172,7 +172,7 @@ We will learn how to handle exceptions in later courses.
 
 [slide]
 # Problem: Greeting
-[code-task title="Greeting" executionStrategy="java-code" requiresInput]
+[code-task title="Greeting" executionStrategy="java-code" requiresInput taskId="27-01-p-01asdasd"]
 [code-editor language="java"]
 ```java
 import java.util.Scanner;
@@ -237,7 +237,7 @@ Hello, George
 
 [slide]
 # Solution: Greeting
-[code-task title="Greeting" executionStrategy="java-code" requiresInput]
+[code-task title="Greeting" executionStrategy="java-code" requiresInput taskId="27-01-p-01asdasd123"
 [code-editor language=java]
 ```java
 import java.util.Scanner;
