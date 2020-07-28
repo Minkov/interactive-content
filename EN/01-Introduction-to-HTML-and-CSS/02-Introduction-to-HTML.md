@@ -35,7 +35,7 @@ HTML uses "**markup**" to annotate text, images and other content for display in
 
 [vimeo-video]
 [stream language="EN" videoId="431746990" default /]
-[/video-vimeo]
+[/vimeo-video]
 
 In HTML, a tag is used for **creating an element**. 
 
@@ -118,11 +118,12 @@ The HTML `<body></body>` element represents the content of an HTML document. The
 
 [vimeo-video]
 [stream language="EN" videoId="431749670" default /]
-[/video-vimeo]
+[/vimeo-video]
 
 [html]
 <p class="codepen" data-height="276" data-theme-id="39135" data-default-tab="html,result" data-user="atanas-atanasov-the-scripter" data-slug-hash="oNjNxXr" style="height: 276px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="oNjNxXr"></p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 [/html]
 [/slide]
 
@@ -133,7 +134,7 @@ The HTML `<body></body>` element represents the content of an HTML document. The
 
 [vimeo-video]
 [stream language="EN" videoId="431748168" default /]
-[/video-vimeo]
+[/vimeo-video]
 
 Whitespace is any string of text composed only of **spaces**, **tabs** or **line breaks**.
 
@@ -151,6 +152,7 @@ Let's look at this example:
 <p class="codepen" data-height="265" data-theme-id="39135" data-default-tab="html,result" data-user="atanas-atanasov-the-scripter" data-slug-hash="ExVxZeN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExVxZeN">
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 [/html]
 
 This is so that whitespace characters **don't impact** the layout of your page. 
@@ -163,7 +165,7 @@ If we need space around and inside elements, we can do that with **CSS**.
 
 [vimeo-video]
 [stream language="EN" videoId="431748211" default /]
-[/video-vimeo]
+[/vimeo-video]
 
 These are spelling errors in your code. These are usually easy to fix as long as you are familiar with the language's syntax.
 
@@ -179,7 +181,7 @@ However, this can still be a **problem**.
 
 You really want to make sure your HTML is **well-formed**! You probably wonder how? 
 
-The best way is to start by running your HTML page through the [Markup Validation Service](https://validator.w3.org/). 
+The best way is to start by running your HTML page through the [anchor href='https://validator.w3.org/']Markup Validation Service[/anchor]
 
 W3C is the organization that looks after the specifications that define HTML, CSS, and other web technologies. 
 
