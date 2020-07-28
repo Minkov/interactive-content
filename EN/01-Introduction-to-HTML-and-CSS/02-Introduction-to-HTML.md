@@ -1,47 +1,4 @@
 [slide]
-<<<<<<< HEAD:EN/01-Introduction-to-HTML-and-CSS/01-Introduction-to-HTML.md
-# Problem: Random HTML Problem
-[code-task title="Random HTML Problem" taskId="random-html-problem" executionType="tests-execution" executionStrategy="html-and-css-zip-file" requiresInput="false"]
-[code-upload allowedMemory="30" ] [/code-upload]
-[task-description]
-## Description
-- Change the document title to Simple HTML Page
-- Use paragraph tag for plain text and strong tag for bold text
-[/task-description]
-[tests]
-[test open]
-[input]
-expect(document.title).to.equal("Simple HTML Page","Incorrect title name");
-[/input]
-[output]
-yes
-[/output]
-[/test]
-[test]
-[input]
-expect($("p")).to.have.lengthOf(1,"Incorrect amount of p tag.");
-[output]
-yes
-[/output]
-[/test]
-[test]
-[input]
-expect($("strong")).to.have.lengthOf(2,"Incorrect amount of strong tags.");
-[output]
-yes
-[/output]
-[/test]
-[test]
-[input]
-expect($(document.body).find("strong").text()).to.include("CSS","Incorrect text in strong tag.");
-[output]
-yes
-[/output]
-[/test]
-[/tests]
-[/code-task]
-[/slide]
-=======
 # Video: What is HTML?
 
 [vimeo-video]
@@ -231,4 +188,3 @@ This webpage takes an HTML document as an input and tells what is wrong with you
 To specify the HTML to validate, you can give it a **web address**, upload entire **HTML document**, or **directly put** your HTML code.
 
 [/slide]
->>>>>>> upstream/html-and-css-june-20:EN/01-Introduction-to-HTML-and-CSS/02-Introduction-to-HTML.md
