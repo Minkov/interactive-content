@@ -1,0 +1,4 @@
+Python Fundamentals Part 2
+- `00-video.md` is missing in some lessons
+- Lessons start from `01`, but they should start from `00`
+
